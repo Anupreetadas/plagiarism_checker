@@ -14,5 +14,5 @@ $ pip install scikit-learn
 - Basically the code will compare all the .txt files and check for any similarity.
 
 ## Screenshots
-<img src="https://raw.githubusercontent.com/Anupreetadas/plagiarism_checker/main/assets/Capture1.PNG" width="30%" align="left" >
+<img src="https://raw.githubusercontent.com/Anupreetadas/plagiarism_checker/main/assets/Capture1.PNG" width="100%" height="100%" align="left" >
 
